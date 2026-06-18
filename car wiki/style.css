@@ -1,0 +1,31 @@
+
+#img1 {
+    width: 800px;
+    height: 400px;
+    height: 300px;
+}
+.o1 {
+    width: 800px;
+    height: 5000px;
+    background-color: white;
+}
+.o2 {
+    width: 800px;
+    height: 5000px;
+    background-color: rgb(255, 231, 231);
+    font-size: 14px;
+}
+#img2 {
+    width: 500px;
+    height: 300px;
+}
+#img3 {
+    width: 500px;
+     
+}
+.text1 {
+    margin-left: 500px;
+}
+.text2 {
+    margin-left: 500px;
+}
